@@ -10,6 +10,9 @@
     outline: solid yellow 1px;
 }
 
+.navContact{
+    text-align: right;
+}
 
 
 /* example of box-sizing override for embeds
