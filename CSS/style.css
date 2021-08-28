@@ -19,6 +19,10 @@ button{
     font-family: "Manrope", sans-serif;
 }
 
+
+.thumbnail {
+    width: 250px;
+}
 button:hover{
     background-image: linear-gradient(#0F276A, #003AD3);
 }
