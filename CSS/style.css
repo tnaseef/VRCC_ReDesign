@@ -1,0 +1,21 @@
+.container{
+    outline: solid red 1px;
+}
+
+.row{
+    outline: solid orange 1px;
+}
+
+.column{
+    outline: solid yellow 1px;
+}
+
+.navContact{
+    text-align: right;
+}
+
+
+/* example of box-sizing override for embeds
+.selector-for-some-widget {
+    box-sizing: content-box;
+  } */
