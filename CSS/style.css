@@ -58,10 +58,10 @@ a:hover{
 }
 
 /*Jumbotron*/
-.carousel-item {
+.carousel-item img{
     width: 100%;
     height: 650px;
-    align-items: center;
+    padding-bottom: 10px;
 }
 
 
