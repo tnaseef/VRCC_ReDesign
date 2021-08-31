@@ -69,14 +69,32 @@ a:hover{
 }
 
 /*Jumbotron*/
-
 .carousel-item, .carousel-inner {
     height: 700px;
     margin-bottom: 20px;
 }
 
 
+/*Footer*/
 
+footer a{
+    color: black;
+}
+
+.foot{
+    text-align: center;
+}
+
+.footHead{
+    font-weight: bold;
+}
+
+.footList{
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
 
 
 /* example of box-sizing override for embeds
