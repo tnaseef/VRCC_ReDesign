@@ -93,7 +93,7 @@ a:hover{
 
 /*Jumbotron*/
 .carousel-item, .carousel-inner {
-    height: 700px;
+    max-height: 700px;
     margin-bottom: 20px;
 }
 
