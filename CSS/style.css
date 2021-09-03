@@ -83,6 +83,12 @@ a:hover{
 }
 
 
+.navbar-toggler{
+    background-image: none !important;
+    background-color: #349d93 !important;
+}
+
+
 /*Alert*/
 .close{
     background-image: none;
