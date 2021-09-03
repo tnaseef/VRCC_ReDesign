@@ -71,19 +71,6 @@ a:hover{
     padding-right: 8px;
 }
 
-/*Outlines
-.container{
-    outline: solid red 1px;
-}
-
-.row{
-    outline: solid orange 1px;
-}
-
-.column{
-    outline: solid yellow 1px;
-}
-*/
 
 /*Navbar*/
 .navContact{
@@ -95,6 +82,7 @@ a:hover{
     margin-top: 20px;
 }
 
+
 /*Alert*/
 .close{
     background-image: none;
@@ -105,6 +93,7 @@ a:hover{
     background-image: none;
     color: black;
 }
+
 
 /*Jumbotron*/
 .carousel-item, .carousel-inner {
@@ -119,6 +108,7 @@ a:hover{
 #carouselExampleCaptions ul{
     list-style-type: none;
 }
+
 
 /*Content*/
 .missionHead{
@@ -150,6 +140,7 @@ footer a{
 
 .foot{
     text-align: center;
+    margin-bottom: 25px;
 }
 
 .footHead{
@@ -167,6 +158,10 @@ footer a{
     padding: 20px;
 }
 
+.iconS{
+    height: auto;
+    width: 30px;
+}
 
 /* example of box-sizing override for embeds
 .selector-for-some-widget {
