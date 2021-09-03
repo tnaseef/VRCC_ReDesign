@@ -133,6 +133,30 @@ a:hover{
     padding-left: 10px;
 }
 
+.padT{
+    padding-top: 10px;
+}
+
+.facImg{
+    text-align: center;
+}
+
+.mL{
+    margin-left: 15px;
+}
+
+.mB{
+    margin-bottom: 50px;
+}
+
+.mT{
+    margin-top: 20px;
+}
+
+.sMore{
+    margin-right: 38px;
+}
+
 /*Footer*/
 footer{
     margin-top: 20px;
