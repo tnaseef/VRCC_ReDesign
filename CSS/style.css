@@ -14,6 +14,10 @@ h5 {
     font-weight: 600;
 }
 
+h4{
+    padding-bottom: 5px;
+}
+
 .caption {
     font-size: 20px;
 }
@@ -49,8 +53,18 @@ a:hover{
     width: 35px;
 }
 
+.iconForm{
+    height: auto;
+    width: 40px;
+    margin-left: -3px;
+}
+
 .bolded{
     font-weight: bold;
+}
+
+.col-12, .col-md-6, .col{
+    padding: 15px;
 }
 
 .padR{
@@ -109,11 +123,18 @@ a:hover{
 /*Content*/
 .missionHead{
     padding-top: 20px;
-    padding-bottom: 5px;
 }
 
 .spaceB{
     margin-bottom: 20px;
+}
+
+.testi{
+    padding: 10px;
+}
+
+.padL{
+    padding-left: 10px;
 }
 
 /*Footer*/
